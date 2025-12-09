@@ -14,7 +14,7 @@ show_sidebar: true
 
 - Thomas Bäck, University of Leiden, The Netherlands
 - Cristian S. Calude, University of Auckland, New Zealand
-- Enrico Formenti, Université Côte d'Azur, France — co- chair
+- Enrico Formenti, Université Côte d'Azur, France — co-chair
 - Lov K. Grover, Bell Labs, USA
 - Mika Hirvensalo, University of Turku, Finland — co-chair
 - Natasha Jonoska, University of South Florida, USA
