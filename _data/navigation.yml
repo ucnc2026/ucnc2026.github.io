@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: Committees
+  link: /committees.html
+- name: Dates
+  link: /dates.html
+- name: Awards
+  link: /awards.html
+- name: Workshops
+  link: /workshops.html
+- name: Submission
+  link: /submission.html
+- name: Venue & Accommodation
+  link: /venue.html
