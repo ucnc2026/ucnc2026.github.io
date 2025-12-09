@@ -16,7 +16,7 @@ The are four submission categories:
 
 **regular papers**: they contain original research not yet communicated to other conference or any journal. Regular papers should not exceed 16 pages.
 
-**short papers**: they are intended for communicating fresh new original research which is not yet complete or still need some development. Short papers should not exceed 8 pages.
+**short papers**: they are intended for communicating new original, not yet published research which is of smaller scope with respect to regular papers. Short papers should not exceed 8 pages and have shorter presentation time.
 
 **late-breaking abstracts (LBA)** are informal presentations of new research and/or research direction proposals as well as presentations of research that has already been presented at other conferences, with the purpose of further dissemination of results or research directions. They should not exceed 3 pages.
 
@@ -27,7 +27,7 @@ The are four submission categories:
 Papers must not be under simultaneous consideration by any other conference with published proceedings.
 All accepted papers, late-breaking abstracts, and posters must be presented at the conference by at least one registered author.
 
-Please note that these guidelines apply only to the main conference track; satellite workshops have their own submission procedures and publication arrangements.
+Please note that these guidelines apply only to the main conference track; [satellite workshops](workshops.html) have their own submission procedures and publication arrangements.
 
 ## Papers Preparation
 
