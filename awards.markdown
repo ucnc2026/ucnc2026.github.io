@@ -1,3 +1,11 @@
+---
+title: UCNC 2026
+subtitle: Awards
+layout: page
+hero_image: /assets/images/bg.jpg
+show_sidebar: true
+---
+
 ## G. Rozenberg Natural Computing Award
 
 The G. Rozenberg Natural Computing Award is an award granted annually. It recognizes outstanding achievements in the field of Natural Computing.

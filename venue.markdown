@@ -1,5 +1,5 @@
 ---
-title: UCNC 2023
+title: UCNC 2026
 subtitle: Venue & Accommodation
 layout: page
 hero_image: /assets/images/bg.jpg
