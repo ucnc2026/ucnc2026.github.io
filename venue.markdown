@@ -1,6 +1,6 @@
 ---
-title: Automata 2023
-subtitle: Venue
+title: UCNC 2023
+subtitle: Venue & Accommodation
 layout: page
 hero_image: /assets/images/bg.jpg
 show_sidebar: true
@@ -42,6 +42,14 @@ Trieste can be reached by train from the main Italian cities. There are, for exa
 
 Trieste has numerous hotels of all price ranges. The university is on the hills behind the city centre (<https://goo.gl/maps/fyDNhHUzPb7Q23SSA>), and it is easily reachable in ~15 minutes by local buses (lines 17, 17/, 51, 3, 4) from various points of the city. We recommend you find a room in the city centre, where all the restaurants, bars and shops are. The area in front of the main train station (Trieste Centrale, the area called "Borgo Teresiano" close to the city canal, and the area close to the main square (Piazza Unità) are all great options. 
 
+A (completely not exhaustive) list of hotels near the city center:
+- [Albergo alla Posta](https://www.albergopostatrieste.it) (3 stars), Piazza Guglielmo Oberdan, 1
+- [L'Albero Nascosto](https://alberonascosto.it) (3 stars), Via Felice Venezian, 18
+- [Hotel Roma](https://www.hotelroma-trieste.it) (3 stars), Via Carlo Ghega 7
+- [NH Hotel Trieste](https://www.nh-hotels.com/en/hotel/nh-trieste) (4 stars), Corso Cavour, 7
+- [Savoia Excelsior Palace](https://collezione.starhotels.com/en/our-hotels/savoia-excelsior-palace-trieste/) (5 stars), Riva del Mandracchio, 4
+- [Grand Hotel Duchi D'Aosta](https://duchidaosta.com/it/) (5 stars), Piazza Unità d'Italia, 2/1
+  
 ### Reaching the conference location
 
 It can be reached by bus from the city center by getting down at [the bus stop in Via Valerio 2](https://goo.gl/maps/UKQPkFwhWzHva1536) (lines 17, 17/, 4, 51, 42).
