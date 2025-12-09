@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.2"
+gem "jekyll"
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed"
 end
 
-gem "webrick", "~> 1.7"
+gem "webrick"
 
 # Theme for the site
 gem "bulma-clean-theme"
