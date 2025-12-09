@@ -1,6 +1,6 @@
 ---
-title: UCNC 2023
-subtitle: The 23rd International Conference on Unconventional Computation and Natural Computation<br><b>June 22--26, 2026<br>Trieste, Italy</b>
+title: UCNC 2026
+subtitle: The 23rd International Conference<br>on Unconventional Computation and Natural Computation<br><b>June 22-26, 2026<br>Trieste, Italy</b>
 layout: page
 hero_image: /assets/images/bg.jpg
 show_sidebar: true
