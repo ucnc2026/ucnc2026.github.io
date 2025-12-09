@@ -29,10 +29,7 @@ github_username:  mnzluca
 # With GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme
 # Build settings
-# theme: bulma-clean-theme
-plugins:
-  - jekyll-feed
-  - jekyll-katex
+theme: bulma-clean-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
