@@ -39,6 +39,4 @@ Authors are invited to submit original research papers through the EasyChair sub
 
 ## Special Issue
 
-Authors of selected papers will be invited to submit extended versions for publication in a special issue of the International Journal of Natural Computing by Springer-Verlag.
-
- 
+Authors of selected papers will be invited to submit extended versions for publication in a special issue of Natural Computing by Springer-Verlag.
