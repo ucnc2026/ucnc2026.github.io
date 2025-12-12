@@ -1,0 +1,44 @@
+---
+title: UCNC 2026
+subtitle: Paper Submissions
+layout: page
+hero_image: /assets/images/bg.jpg
+show_sidebar: true
+---
+
+## Proceedings
+
+Accepted regular and short papers will be published in the Springer Lecture Notes in Computer Science Series (LNCS) as post-proceedings.
+
+## Paper Categories
+
+The are four submission categories:
+
+* **regular papers**: they contain original research not yet communicated at other conferences or in any journal. Regular papers should not exceed 16 pages.
+
+* **short papers**: they are intended for communicating new, original, not yet published research which is of smaller scope. Short papers should not exceed 8 pages and have shorter presentation time.
+
+* **late-breaking abstracts (LBA)** are informal presentations of new research and/or research direction proposals as well as presentations of research that has already been presented at other conferences, with the purpose of further dissemination of results or research directions. They should not exceed 3 pages.
+
+* **posters**: Posters should be one page in A0 format (plus 1 page abstract in LNCS format).
+
+## Author Guidelines
+
+Papers must not be under simultaneous consideration by any other conference with published proceedings.
+All accepted papers, late-breaking abstracts, and posters must be presented at the conference by at least one registered author.
+
+Please note that these guidelines apply only to the main conference submissions; [satellite workshops](workshops.html) have their own submission procedures and publication arrangements.
+
+## Papers Preparation
+
+Papers must be submitted in Portable Document Format (PDF) and must be formatted in the [LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Authors using LaTeX can download the needed macros at Springer-Verlag site ([LaTex style](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v8)).
+Papers must respect the page limits given above.
+Full proofs should be given should appear in a clearly marked technical appendix which can also contain an additional material.
+Appendixes will not be included in the proceedings.
+
+Papers must be submitted through the EasyChair submission system: _link available soon_.
+
+## Special Issue
+
+Authors of selected papers will be invited to submit updated and extended versions for publication in a special issue of "Natural Computing", an international journal by Springer-Verlag.

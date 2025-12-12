@@ -23,7 +23,6 @@ show_sidebar: true
 - Giancarlo Mauri, Università degli Studi di Milano-Bicocca, Italy
 - Gheorghe Paun, Institute of Mathematics of the Romanian Academy, Romania
 - Grzegorz Rozenberg, Leiden University, The Netherlands — Emeritus chair
-- Arto Salomaa, University of Turku, Finland
 - Shinnosuke Seki, University of Electro-Communications, Japan — co-chair
 - Tomasso Toffoli, Boston University, USA
 - Carme Torras, Institute of Robotics and Industrial Informatics, Spain

@@ -16,5 +16,5 @@ The 2023 G. Rozenberg Natural Computing Award was presented to Professor _Jarkko
 
 The 2024 G. Rozenberg Natural Computing Award was presented to Professor _Susan Stepney_ (University of York, UK) in recognition of her outstanding research contributions to many areas of Natural Computing and Unconventional Computing. Among others, she is a research leader in reservoir computing. Her continuous research contributions and her service to the scientific community significantly influenced the development of the field of Natural Computing.
 
-The 2025 G. Rozenberg Natural Computing Award was presented to professor Professor _Eric Goles_ (University Adolfo Ibañes, Santiago, Chile) in recognition of his numerous and important contributions to Natural
+The 2025 G. Rozenberg Natural Computing Award was presented to Professor _Eric Goles_ (University Adolfo Ibañes, Santiago, Chile) in recognition of his numerous and important contributions to Natural
 Computing and Unconventional Computing. He is a research leader on complex systems and cellular automata.
