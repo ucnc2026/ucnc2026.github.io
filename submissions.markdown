@@ -37,7 +37,7 @@ Papers must respect the page limits given above.
 Full proofs should be given should appear in a clearly marked technical appendix which can also contain an additional material.
 Appendixes will not be included in the proceedings.
 
-Papers must be submitted through the EasyChair submission system: _link available soon_.
+Papers must be submitted through the EasyChair submission system [at this link](https://easychair.org/conferences/?conf=ucnc2026)
 
 ## Special Issue
 
