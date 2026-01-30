@@ -10,7 +10,7 @@ This year UCNC will host three satellite workshops on _Reaction Systems_, _Quant
 
 The workshops take place in the same rooms as the conference, but have their own schedules and committees. Registration will be offered either for a single workshop or for the full conference (including all workshops).
 
-#### Reaction Systems Workshop
+#### [Reaction Systems Workshop](https://www.reactionsystems.org/reaction-systems-workshops/reaction-systems-workshop-2026)
 
 Since their introduction nearly 20 years ago, reaction systems have evolved into a broad inter-disciplinary research area, driven by both biological motivations as well as the need to understand interactive computation.
 Research in this field is extensive and diverse, spanning theoretical foundations, applications and software tools. It encompasses many types of reaction systems, their mathematical properties, and their connections to other fields. 
@@ -24,6 +24,8 @@ Previous editions of the workshop:
 - First edition: Milano, Italy, June 2018.
 
 Workshop organizers: Luca Manzoni (University of Trieste, Italy) and Ion Petre (University of Turku, Finland).
+
+Website: [https://www.reactionsystems.org/reaction-systems-workshops/reaction-systems-workshop-2026](https://www.reactionsystems.org/reaction-systems-workshops/reaction-systems-workshop-2026)
 
 #### Quantum Computing Workshop
 
