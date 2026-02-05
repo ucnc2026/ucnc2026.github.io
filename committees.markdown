@@ -8,22 +8,36 @@ show_sidebar: true
 
 ## Program Committee
 
-  TBA
+Already confirmed members:
+
+- Abuzer	Yakaryilmaz, University of Latvia, Latvia
+- Bruno	Martin, Univ. Côte d'Azur, France
+- Da-Jung Cho, Ajou University, Korea
+- Daniela	Genova, University of North Florida, USA
+- Enrico Formenti, Univ. Côte d'Azur, France _(chair)_
+- Giuditta Franco, University of Verona, Italy
+- Ho-Lin Chen, National Taiwan University, Tiwan
+- Ian	McQuillan, University of Saskatchewan, Canada
+- Ion	Petre, University of Turku, Finland
+- Jongmin Kim, Pohang University of Science and Technology, Korea
+- Kamil	Khadiev, Kazan Federal University, Russia
+- Luca Manzoni, University of Trieste, Italy _(chair)_
+- Masami	Hagiya, The University of Tokyo, Japan
 
 ## Steering Committee
 
 - Thomas Bäck, University of Leiden, The Netherlands
 - Cristian S. Calude, University of Auckland, New Zealand
-- Enrico Formenti, Université Côte d'Azur, France — co-chair
+- Enrico Formenti, Université Côte d'Azur, France _(co-chair)_
 - Lov K. Grover, Bell Labs, USA
-- Mika Hirvensalo, University of Turku, Finland — co-chair
+- Mika Hirvensalo, University of Turku, Finland _(co-chair)_
 - Natasha Jonoska, University of South Florida, USA
 - Jarkko Kari, University of Turku, Finland
 - Seth Lloyd, Massachusetts Institute of Technology, USA
 - Giancarlo Mauri, Università degli Studi di Milano-Bicocca, Italy
 - Gheorghe Paun, Institute of Mathematics of the Romanian Academy, Romania
-- Grzegorz Rozenberg, Leiden University, The Netherlands — Emeritus chair
-- Shinnosuke Seki, University of Electro-Communications, Japan — co-chair
+- Grzegorz Rozenberg, Leiden University, The Netherlands _(Emeritus chair)_
+- Shinnosuke Seki, University of Electro-Communications, Japan _(co-chair)_
 - Tomasso Toffoli, Boston University, USA
 - Carme Torras, Institute of Robotics and Industrial Informatics, Spain
 - Jan van Leeuwen, Utrecht University, The Netherlands

@@ -1,5 +1,9 @@
 - name: Committees
   link: /committees.html
+# - name: Invited Speakers
+#  link: /invited.html
+# - name: Tutorials
+#  link: /tutorials.html
 - name: Dates
   link: /dates.html
 - name: Awards
