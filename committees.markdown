@@ -21,8 +21,10 @@ Already confirmed members:
 - Ion	Petre, University of Turku, Finland
 - Jongmin Kim, Pohang University of Science and Technology, Korea
 - Kamil	Khadiev, Kazan Federal University, Russia
+- Loïc Paulevé, CNRS/LaBRI, Bordeaux, France
 - Luca Manzoni, University of Trieste, Italy _(chair)_
 - Masami	Hagiya, The University of Tokyo, Japan
+- Matteo Cavaliere, Università degli Studi di Modena e Reggio Emilia, Italy
 
 ## Steering Committee
 
