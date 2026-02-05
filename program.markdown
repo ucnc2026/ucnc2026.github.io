@@ -1,11 +1,11 @@
 ---
 title: UCNC 2026
-subtitle: Tutorials
+subtitle: Program
 layout: page
 hero_image: /assets/images/bg.jpg
 show_sidebar: true
 ---
 
-## Tutorials
+## Program
 
-Already confirmed tutorials
+TBA

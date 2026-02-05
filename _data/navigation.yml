@@ -1,16 +1,16 @@
 - name: Committees
   link: /committees.html
-# - name: Invited Speakers
-#  link: /invited.html
-# - name: Tutorials
-#  link: /tutorials.html
 - name: Dates
   link: /dates.html
 - name: Awards
   link: /awards.html
 - name: Workshops
   link: /workshops.html
+- name: Invited Talks and Tutorials
+  link: /invited.html
 - name: Submissions
   link: /submissions.html
+- name: Program
+  link: /program.html
 - name: Venue & Accommodation
   link: /venue.html

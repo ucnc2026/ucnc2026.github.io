@@ -10,7 +10,7 @@ show_sidebar: true
 
 Already confirmed members:
 
-- Abuzer	Yakaryilmaz, University of Latvia, Latvia
+- Abuzer Yakaryilmaz, University of Latvia, Latvia
 - Bruno	Martin, Univ. Côte d'Azur, France
 - Da-Jung Cho, Ajou University, Korea
 - Daniela	Genova, University of North Florida, USA
@@ -25,6 +25,8 @@ Already confirmed members:
 - Luca Manzoni, University of Trieste, Italy _(chair)_
 - Masami	Hagiya, The University of Tokyo, Japan
 - Matteo Cavaliere, Università degli Studi di Modena e Reggio Emilia, Italy
+- Matthew	J. Patitz, University of Arkansas, USA
+- Pedro Paulo	Balbi	De Oliveira, Universidade Presbiteriana Mackenzie, Brazil
 
 ## Steering Committee
 
