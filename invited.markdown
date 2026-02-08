@@ -10,6 +10,6 @@ show_sidebar: true
 
 TBA
 
-## Tutorial
+## Invited Tutorials
 
 TBA

@@ -27,6 +27,20 @@ Workshop organizers: Luca Manzoni (University of Trieste, Italy) and Ion Petre (
 
 Website: [https://www.reactionsystems.org/reaction-systems-workshops/reaction-systems-workshop-2026](https://www.reactionsystems.org/reaction-systems-workshops/reaction-systems-workshop-2026)
 
-#### Quantum Computing Workshop
+#### [Workshop on Quantum Computing and Quantum Information](https://users.utu.fi/mikhirve/workshop2026/)
+
+The workshop will focus on discussions within its thematic scope of quantum computing and quantum information theory. Topics of interest include but are not limited to: quantum sensing, quantum materials science, quantum hardware and architectures, quantum error correction, quantum cryptography and quantum communication, quantum algorithms, quantum optimization, quantum AI, quantum bioinformatics and other relevant experimental and theoretical topics. Submissions including non-finished ideas to raise discussion are possible and indeed welcomed. In addition, well-crafted tutorials on specific topics can be accepted as contributions. 
+
+Workshop website: [https://users.utu.fi/mikhirve/workshop2026/](https://users.utu.fi/mikhirve/workshop2026/)
 
 #### Cellular Automata and Boolean Automata Networks Workshop
+
+The _Cellular Automata and Boolean Automata Networks Workshop_ as part of UCNC 2026 is the workshop of the [ACANCOS (Application-Driven Challenges for Automata Networks and Complex Systems) project](https://acancos.units.it).
+
+The ACANCOS project and the workshop aim to lay the foundation for a solid and internationally competitive research on Automata Networks, Cellular Automata, and modelling of complex systems by these discrete models.
+
+**Research topics**
+
+- Automata Networks
+- Cellular Automata
+- Automata Networks and Cellular Automata in practice: application scenarios
