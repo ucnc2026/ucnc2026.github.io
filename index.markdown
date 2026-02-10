@@ -21,6 +21,7 @@ Topics of interest include, but are not limited to:
 * Quantum computing
 * Neural computation
 * Evolutionary computation
+* Robotics
 * Optical computing
 * Chaos computing
 * Collision-based computing
