@@ -10,7 +10,7 @@ show_sidebar: true
 
 Already Confirmed: 
 - [Carina Curto](https://ccurto.github.io), Brown University, USA
-- [Cristian Micheletti](https://people.sissa.it/~michelet/), SISSA, Italy
+- [Cristian Micheletti](https://people.sissa.it/~michelet/), SISSA, Italy<br>_Quantum computing for polymer physics_
 - [Hiroki Sayama](https://www.binghamton.edu/som/research/profile.html?id=sayama), Binghamton University, USA
 - *The winner of the G. Rozenberg Natural Computing Award*
 
