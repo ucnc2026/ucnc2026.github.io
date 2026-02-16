@@ -13,24 +13,25 @@ Already confirmed members:
 - Abuzer Yakaryilmaz, University of Latvia, Latvia
 - Bruno	Martin, Univ. Côte d'Azur, France
 - Da-Jung Cho, Ajou University, Korea
-- Daniela	Genova, University of North Florida, USA
+- Daniela Genova, University of North Florida, USA
 - Enrico Formenti, Univ. Côte d'Azur, France _(chair)_
 - Franklin De Lima Marquezino, Universidade Federal do Rio de Janeiro, Brazil
 - Giuditta Franco, University of Verona, Italy
 - Ho-Lin Chen, National Taiwan University, Taiwan
-- Ian	McQuillan, University of Saskatchewan, Canada
+- Ian McQuillan, University of Saskatchewan, Canada
 - Ibuki	Kawamata, Tohoku University, Japan
-- Ion	Petre, University of Turku, Finland
+- Ion Petre, University of Turku, Finland
 - Jongmin Kim, Pohang University of Science and Technology, Korea
 - Kamil	Khadiev, Kazan Federal University, Russia
+- Kevin Perrot, Aix-Marseille Université, France
 - Loïc Paulevé, CNRS/LaBRI, Bordeaux, France
 - Luca Manzoni, University of Trieste, Italy _(chair)_
-- Masami	Hagiya, The University of Tokyo, Japan
+- Masami Hagiya, The University of Tokyo, Japan
 - Matteo Cavaliere, Università degli Studi di Modena e Reggio Emilia, Italy
-- Matthew	J. Patitz, University of Arkansas, USA
+- Matthew J. Patitz, University of Arkansas, USA
 - Moreno Falaschi, University of Siena, Italy
-- Pedro Paulo	Balbi	De Oliveira, Universidade Presbiteriana Mackenzie, Brazil
-- Takaaki	Mizuki,Tohoku University, Japan
+- Pedro Paulo Balbi	De Oliveira, Universidade Presbiteriana Mackenzie, Brazil
+- Takaaki Mizuki, Tohoku University, Japan
 - Tim	Wylie, University of Texas Rio Grande Valley, USA
 
 ## Steering Committee
