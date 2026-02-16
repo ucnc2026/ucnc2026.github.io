@@ -10,18 +10,18 @@ show_sidebar: true
 
 Already Confirmed: 
 - [Carina Curto](https://ccurto.github.io), Brown University, USA
-- [Cristian Micheletti](https://people.sissa.it/~michelet/), SISSA, Italy<br>_Quantum computing for polymer physics_
+- [Cristian Micheletti](https://people.sissa.it/~michelet/), SISSA, Italy<br>_"Quantum computing for polymer physics"_
 - [Hiroki Sayama](https://www.binghamton.edu/som/research/profile.html?id=sayama), Binghamton University, USA
 - *The winner of the G. Rozenberg Natural Computing Award*
 
 ## Tutorials Speakers
 
 Already Confirmed:
-- [Eric Medvet](https://medvet.inginf.units.it), University of Trieste, Italy<br/>_Evolutionary Modular Robotics_
+- [Eric Medvet](https://medvet.inginf.units.it), University of Trieste, Italy<br/>_"Evolutionary Modular Robotics"_
 
 ## Workshop Speakers
 
 Already Confirmed:
 - [Paolo Bottoni](), University of Rome "Sapienza", Italy
 - [Linda Brodo](), University of Sassari, Italy
-- [Mika Hirvensalo](https://users.utu.fi/mikhirve/), Turku University, Finland<br/>_Multiple Ways to Quantum Future_
+- [Mika Hirvensalo](https://users.utu.fi/mikhirve/), Turku University, Finland<br/>_"Multiple Ways to Quantum Future"_
