@@ -22,6 +22,6 @@ Already Confirmed:
 ## Workshop Speakers
 
 Already Confirmed:
-- [Paolo Bottoni](), University of Rome "Sapienza", Italy
-- [Linda Brodo](), University of Sassari, Italy
+- [Paolo Bottoni](https://www.cis.uniroma1.it/bottoni), University of Rome "Sapienza", Italy<br/>_"Nature vs. Nurture: When environment matters"_
+- [Linda Brodo](https://www.uniss.it/it/ugov/person/392), University of Sassari, Italy
 - [Mika Hirvensalo](https://users.utu.fi/mikhirve/), Turku University, Finland<br/>_"Multiple Ways to Quantum Future"_

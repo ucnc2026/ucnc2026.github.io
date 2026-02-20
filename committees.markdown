@@ -26,6 +26,7 @@ Already confirmed members:
 - Kevin Perrot, Aix-Marseille Université, France
 - Loïc Paulevé, CNRS/LaBRI, Bordeaux, France
 - Luca Manzoni, University of Trieste, Italy _(chair)_
+- Marc Antonini, CNRS, Université Côte d’Azur, France
 - Masami Hagiya, The University of Tokyo, Japan
 - Matteo Cavaliere, Università degli Studi di Modena e Reggio Emilia, Italy
 - Matthew J. Patitz, University of Arkansas, USA
