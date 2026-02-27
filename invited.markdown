@@ -10,8 +10,8 @@ show_sidebar: true
 
 Already Confirmed: 
 - [Carina Curto](https://ccurto.github.io), Brown University, USA
-- [Cristian Micheletti](https://people.sissa.it/~michelet/), SISSA, Italy<br>_"Quantum computing for polymer physics"_
-- [Hiroki Sayama](https://www.binghamton.edu/som/research/profile.html?id=sayama), Binghamton University, USA
+- [Cristian Micheletti](https://people.sissa.it/~michelet/), SISSA, Italy<br/>_"Quantum computing for polymer physics"_
+- [Hiroki Sayama](https://www.binghamton.edu/som/research/profile.html?id=sayama), Binghamton University, USA<br/>_"Swarm systems as a platform for open-ended evolutionary dynamics"_
 - *The winner of the G. Rozenberg Natural Computing Award*
 
 ## Tutorials Speakers
@@ -25,3 +25,4 @@ Already Confirmed:
 - [Paolo Bottoni](https://www.cis.uniroma1.it/bottoni), University of Rome "Sapienza", Italy<br/>_"Nature vs. Nurture: When environment matters"_
 - [Linda Brodo](https://www.uniss.it/it/ugov/person/392), University of Sassari, Italy
 - [Mika Hirvensalo](https://users.utu.fi/mikhirve/), Turku University, Finland<br/>_"Multiple Ways to Quantum Future"_
+- [Daniel Santavicca](https://webapps.unf.edu/faculty/bio/n00860924), University of North Florida, USA<br/>_"Superconducting Electronics for Classical, Quantum, and Neuromorphic Computing"_
