@@ -14,13 +14,13 @@ Already Confirmed:
 - [Hiroki Sayama](https://www.binghamton.edu/som/research/profile.html?id=sayama), Binghamton University, USA<br/>_"Swarm systems as a platform for open-ended evolutionary dynamics"_
 - *The winner of the G. Rozenberg Natural Computing Award*
 
-## Tutorials Speakers
+## Tutorial Speakers
 
 Already Confirmed:
 - [Eric Goles Chacc](https://pure.uai.cl/en/persons/eric-goles/), Adolfo Ibáñez University, Chile<br/>_"Fungal Automata"_
 - [Eric Medvet](https://medvet.inginf.units.it), University of Trieste, Italy<br/>_"Evolutionary Modular Robotics"_
 
-## Workshop Speakers
+## Workshops Speakers
 
 Already Confirmed:
 - [Paolo Bottoni](https://www.cis.uniroma1.it/bottoni), University of Rome "Sapienza", Italy<br/>_"Nature vs. Nurture: When environment matters"_
