@@ -24,6 +24,6 @@ Already Confirmed:
 
 Already Confirmed:
 - [Paolo Bottoni](https://www.cis.uniroma1.it/bottoni), University of Rome "Sapienza", Italy<br/>_"Nature vs. Nurture: When environment matters"_
-- [Linda Brodo](https://www.uniss.it/it/ugov/person/392), University of Sassari, Italy
+- [Linda Brodo](https://www.uniss.it/it/ugov/person/392), University of Sassari, Italy<br/>_"When Reactions meet Processes: a flexible compositional framework."_
 - [Mika Hirvensalo](https://users.utu.fi/mikhirve/), Turku University, Finland<br/>_"Multiple Ways to Quantum Future"_
 - [Daniel Santavicca](https://webapps.unf.edu/faculty/bio/n00860924), University of North Florida, USA<br/>_"Superconducting Electronics for Classical, Quantum, and Neuromorphic Computing"_
