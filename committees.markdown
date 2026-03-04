@@ -11,6 +11,7 @@ show_sidebar: true
 Already confirmed members:
 
 - Abuzer Yakaryilmaz, University of Latvia, Latvia
+- Alberto Dennunzio, University of Milano-Bicocca, Italy
 - Bruno	Martin, Univ. Côte d'Azur, France
 - Da-Jung Cho, Ajou University, Korea
 - Daniela Genova, University of North Florida, USA
