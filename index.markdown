@@ -6,6 +6,12 @@ hero_image: /assets/images/bg.jpg
 show_sidebar: true
 ---
 
+<center>
+<h4>
+<b>Submission Deadline Extended: March 27, 2026</b>
+</h4>
+</center>
+
 ## Conference Info
 
 The International Conference Series on Unconventional Computation and Natural Computation (UCNC) provides a forum bringing together scientists from many different backgrounds who are interested in novel forms of computation, human-designed computation inspired by nature, and computational aspects of natural processes.

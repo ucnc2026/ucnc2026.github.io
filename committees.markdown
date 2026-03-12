@@ -34,7 +34,7 @@ Already confirmed members:
 - Moreno Falaschi, University of Siena, Italy
 - Pedro Paulo Balbi	De Oliveira, Universidade Presbiteriana Mackenzie, Brazil
 - Takaaki Mizuki, Tohoku University, Japan
-- Tim	Wylie, University of Texas Rio Grande Valley, USA
+- Tim Wylie, University of Texas Rio Grande Valley, USA
 
 ## Steering Committee
 

@@ -17,7 +17,7 @@ Already Confirmed:
 ## Tutorial Speakers
 
 Already Confirmed:
-- [Eric Goles Chacc](https://pure.uai.cl/en/persons/eric-goles/), Adolfo Ibáñez University, Chile<br/>_"Fungal Automata"_
+- [Eric Goles Chacc](https://pure.uai.cl/en/persons/eric-goles/), Adolfo Ibáñez University, Chile<br/>_"Fungal Automata: dynamics and complexity"_
 - [Eric Medvet](https://medvet.inginf.units.it), University of Trieste, Italy<br/>_"Evolutionary Modular Robotics"_
 
 ## Workshops Speakers
