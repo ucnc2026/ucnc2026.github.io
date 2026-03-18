@@ -33,7 +33,7 @@ The workshop will focus on discussions within its thematic scope of quantum comp
 
 Workshop website: [https://users.utu.fi/mikhirve/workshop2026/](https://users.utu.fi/mikhirve/workshop2026/)
 
-#### Cellular Automata and Boolean Automata Networks Workshop
+#### [Cellular Automata and Boolean Automata Networks Workshop](https://acancos.units.it/workshop2026/)
 
 The _Cellular Automata and Boolean Automata Networks Workshop_ as part of UCNC 2026 is the workshop of the [ACANCOS (Application-Driven Challenges for Automata Networks and Complex Systems) project](https://acancos.units.it).
 
