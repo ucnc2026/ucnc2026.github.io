@@ -18,6 +18,7 @@ Already Confirmed:
 ## Tutorial Speakers
 
 Already Confirmed:
+- [Constantine Evans](https://www.maynoothuniversity.ie/people/constantine-evans), Maynooth University, Ireland<br/>_"DNA tile assembly for all seasons"_
 - [Eric Goles Chacc](https://pure.uai.cl/en/persons/eric-goles/), Adolfo Ibáñez University, Chile<br/>_"Fungal Automata: dynamics and complexity"_
 - [Eric Medvet](https://medvet.inginf.units.it), University of Trieste, Italy<br/>_"Evolutionary Modular Robotics"_
 
