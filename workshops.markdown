@@ -44,3 +44,5 @@ The ACANCOS project and the workshop aim to present some of the current research
 - Automata Networks
 - Cellular Automata
 - Automata Networks and Cellular Automata in practice: application scenarios
+
+Workshop website: [https://acancos.units.it/workshop2026/](https://acancos.units.it/workshop2026/))
