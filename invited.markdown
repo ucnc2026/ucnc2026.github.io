@@ -32,5 +32,5 @@ Already Confirmed:
 - [Mika Hirvensalo](https://users.utu.fi/mikhirve/), Turku University, Finland<br/>_"Multiple Ways to Quantum Future"_
 - [Daniel Santavicca](https://webapps.unf.edu/faculty/bio/n00860924), University of North Florida, USA<br/>_"Superconducting Electronics for Classical, Quantum, and Neuromorphic Computing"_
 
-- [Jarkko Kari](https://users.utu.fi/jkari/), Turku University, Finland
+- [Jarkko Kari](https://users.utu.fi/jkari/), Turku University, Finland<br/>_"Relaxing Spatial Uniformity in Cellular Automata: Effects on Classical Theorems"_
 - [Luca Mariot](https://lucamariot.org), Twente University, The Netherlands
