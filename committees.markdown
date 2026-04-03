@@ -31,6 +31,7 @@ Already confirmed members:
 - Masami Hagiya, The University of Tokyo, Japan
 - Matteo Cavaliere, Università degli Studi di Modena e Reggio Emilia, Italy
 - Matthew J. Patitz, University of Arkansas, USA
+- Mika Hirvensalo, University of Turku, Finland
 - Moreno Falaschi, University of Siena, Italy
 - Pedro Paulo Balbi	De Oliveira, Universidade Presbiteriana Mackenzie, Brazil
 - Takaaki Mizuki, Tohoku University, Japan
