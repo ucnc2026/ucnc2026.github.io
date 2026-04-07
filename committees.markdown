@@ -36,6 +36,7 @@ Already confirmed members:
 - Pedro Paulo Balbi	De Oliveira, Universidade Presbiteriana Mackenzie, Brazil
 - Takaaki Mizuki, Tohoku University, Japan
 - Tim Wylie, University of Texas Rio Grande Valley, USA
+- Zornitza Prodanoff, University of North Florida, USA
 
 ## Steering Committee
 
