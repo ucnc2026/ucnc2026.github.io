@@ -9,6 +9,7 @@ show_sidebar: true
 ## Keynote Speakers
 
 Already Confirmed: 
+
 - [Carina Curto](https://ccurto.github.io), Brown University, USA<br/>_"Network dominoes: composable building blocks for recurrent networks"_
 - [Cristian Micheletti](https://people.sissa.it/~michelet/), SISSA, Italy<br/>_"Quantum computing for polymer physics"_
 - [Hiroki Sayama](https://www.binghamton.edu/som/research/profile.html?id=sayama), Binghamton University, USA<br/>_"Swarm systems as a platform for open-ended evolutionary dynamics"_
@@ -18,6 +19,7 @@ Already Confirmed:
 ## Tutorial Speakers
 
 Already Confirmed:
+
 - [Constantine Evans](https://www.maynoothuniversity.ie/people/constantine-evans), Maynooth University, Ireland<br/>_"DNA tile assembly for all seasons"_
 - [Eric Goles Chacc](https://pure.uai.cl/en/persons/eric-goles/), Adolfo Ibáñez University, Chile<br/>_"Fungal Automata: dynamics and complexity"_
 - [Eric Medvet](https://medvet.inginf.units.it), University of Trieste, Italy<br/>_"Evolutionary Modular Robotics"_
@@ -34,3 +36,6 @@ Already Confirmed:
 
 - [Jarkko Kari](https://users.utu.fi/jkari/), Turku University, Finland<br/>_"Relaxing Spatial Uniformity in Cellular Automata: Effects on Classical Theorems"_
 - [Luca Mariot](https://lucamariot.org), University of Twente, The Netherlands<br/>_"Cellular Automata and Cryptography: Recent Advances and Open Problems"_
+
+<hr>  
+Registration for the conference allows one to attend all the workshops.

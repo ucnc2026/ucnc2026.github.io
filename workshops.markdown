@@ -8,7 +8,10 @@ show_sidebar: true
 
 This year UCNC will host three satellite workshops on _Reaction Systems_, _Quantum Computing_, and _Cellular Automata and Boolean Automata Networks_.
 
-The workshops take place in the same rooms as the conference, but have their own schedules and committees. Registration will be offered either for a single workshop or for the full conference (including all workshops).
+Registration for the conference allows one to attend all the workshops.
+Registration will also be offered for participation to single workshops.
+
+The workshops take place in the same rooms as the conference, but have their own schedules and committees. 
 
 #### [Reaction Systems Workshop](https://www.reactionsystems.org/reaction-systems-workshops/reaction-systems-workshop-2026)
 
