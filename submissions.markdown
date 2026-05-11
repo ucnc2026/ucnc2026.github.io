@@ -39,6 +39,28 @@ Appendixes will not be included in the proceedings.
 
 Papers must be submitted through the EasyChair submission system [at this link](https://easychair.org/conferences/?conf=ucnc2026)
 
+## Preparing the final version for the proceedings
+The final versions of accepted papers must be formatted in LaTeX using [Springer-Verlag's Lecture Notes style](https://www.springer.com/gp/computer-science/lncs/new-latex-templates-available/15634678).
+
+For regular papers, authors might use up to 16 pages including references, title page and acknowledgements.
+For short papers, authors might use up to 8 pages including references, title page and acknowledgements.
+
+Please also consult the [Instructions for Authors provided by Springer](https://www.springer.com/gp/computer-science/lncs/editor-guidelines-for-springer-proceedings) for the preparation and formatting of the manuscript.
+
+The final version should be uploaded on the Easychair website in zipped format containing the following
+- The final source files, including bib files, images, non-standard LaTeX packages, etc.
+- A final PDF file corresponding exactly to the final source files.
+- A [license-to-publish agreement](https://resource-cms.springernature.com/springer-cms/rest/v1/content/23277100/data/v2), signed by hand by the corresponding author on behalf of all of the authors of the paper. Use the following information to fill out the copyright form:
+  - _Title of the Book or Conference Name_: Unconventional Computation and Natural Computation, 23rd International Conference, UCNC 2026
+  - _Volume Editor(s) Name(s_): Luca Manzoni, Enrico Formenti
+
+Moreover, if appropriate, please also give us a suggestion for an abbreviated running head, and information about the correct representation of authors’ names, where necessary.
+
+Please make sure that you follow the standards set out in [Springer's code of conduct](https://www.springer.com/us/authors-editors/book-authors-editors/your-publication-journey/publishing-integrity).
+
+**Important**. At least one author of each accepted paper has to register, attend the conference and present the work.
+
+
 ## Special Issue
 
 Authors of selected papers will be invited to submit updated and extended versions for publication in a special issue of "Natural Computing", an international journal by Springer-Verlag.
