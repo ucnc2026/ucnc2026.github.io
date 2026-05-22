@@ -71,19 +71,19 @@ show_sidebar: true
   _"Modeling the global neuronal workspace with communicating timed automata"_
 - Erik D. Demaine, Timothy Gomez, Markus Hecher, Ryan Knobel, Marco Rodriguez, Robert Schweller and Tim Wylie  
   _"Understanding Counting Complexity Through Tile Assembly Systems"_
-- Henning Fernau, Lakshmanan Kuppusamy and Jana Schulz	 
-  _"Forbidden-Context & Ordered Grammar Systems"_
+- Victoria Capovilla, Andrea Gasparin, Andrea Bertolini and Lorenzo Castelli  
+  _"A Genetic Algorithm for the Network Pricing Problem Using Game-Theoretic Replicator Dynamics"_
 
 ### Regular papers session 2 - Wednesday June 24, 2026 - 11:00-12:00
 
-- Victoria Capovilla, Andrea Gasparin, Andrea Bertolini and Lorenzo Castelli  
-  _"A Genetic Algorithm for the Network Pricing Problem Using Game-Theoretic Replicator Dynamics"_
 - Henning Hillebrandt, Andreas Padalkin, Christian Scheideler, Daniel Warner and Julian Werthmann  
   _"Logarithmic-Time Geodesically Convex Decomposition in Programmable Matter"_
 - Nazifa Khan, William Bushell, Mik Cieslak and Ian McQuillan  
   _"Learning L-system Models of Plants Matching Real Images Using Genetic Algorithm"_
 - Sandro Erba, Giuditta Franco and Claudio Zandron  
   _"Towards a lightweight Spiking Neural P system for image recognition"_
+- Henning Fernau, Lakshmanan Kuppusamy and Jana Schulz	 
+  _"Forbidden-Context & Ordered Grammar Systems"_
 
 ### Regular papers session 3 - Thursday June 25, 2026 - 11:00-12:00
 

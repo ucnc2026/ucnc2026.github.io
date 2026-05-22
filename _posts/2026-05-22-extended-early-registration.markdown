@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preliminary program available"
+title: "Extended Early Registration"
 date: 2026-05-22
 ---
 
