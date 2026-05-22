@@ -11,7 +11,7 @@ show_sidebar: true
 
 **Registration to the conference and the workshops will open shortly**
 
-| Registration Type | Early (up to May 31, 2026) | Late (from June 1, 2026) |
+| Registration Type | Early (up to ~~May 31~~ June 14, 2026) | Late (from June ~~1~~14, 2026) |
 |-------------------|----------------------------|--------------------------|
 | Full    | 480.00€ | 560.00€ |
 | Student | 320.00€ | 380.00€ |
