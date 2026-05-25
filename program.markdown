@@ -113,7 +113,7 @@ TBA
 
 ### Short papers session - Friday June 26, 2026 - 14:00-14:30
 
-- Natasha Jonoska, Van A.B. Pham, Masahico Saito and Bhavneet Saini  
-  _"Levels of Chirality in DNA Nanostructure"_
+- Natasha Jonoska, Yoel Ohayon, Van Pham, Bhavneet Saini, Masahico Saito, Ruojie Sha, Simon Vecchioni, and Karol Woloszyn 
+  _"Levels of Chirality in DNA Nanostructures"_
 - Sanyam Agarwal, Anurag Pandey and Alexander Rogovskyy  
   _"Immune Cell Pathogen Detection as Memory-Dependent Graph Search Algorithm"_
