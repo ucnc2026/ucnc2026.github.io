@@ -20,8 +20,6 @@ show_sidebar: true
 | Quantum Computing Workshop | 120.00€ | 140.00€ |
 | CA and Boolean Automata Networks Workshop | 120.00€ | 140.00€ |
 
-Additional ticket for the social dinner: 80€
-
 Registration for the conference allows one to attend *all* the workshops
 
 Registration to the conference includes lunches and coffee breaks for the entire conference, the social event and the social dinner.
