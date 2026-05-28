@@ -13,7 +13,7 @@ Already Confirmed:
 - [Carina Curto](https://ccurto.github.io), Brown University, USA<br/>_"Network dominoes: composable building blocks for recurrent networks"_
 - [Cristian Micheletti](https://people.sissa.it/~michelet/), SISSA, Italy<br/>_"Quantum computing for polymer physics"_
 - [Hiroki Sayama](https://www.binghamton.edu/som/research/profile.html?id=sayama), Binghamton University, USA<br/>_"Swarm systems as a platform for open-ended evolutionary dynamics"_
-- [Penousal Machado](https://www.cisuc.uc.pt/en/people/penousal-machado), University of Coimbra, Portugal
+- [Penousal Machado](https://www.cisuc.uc.pt/en/people/penousal-machado), University of Coimbra, Portugal<br/>_"Creative Evolutionary Computation in the Age of Generative AI"_
 - *The winner of the G. Rozenberg Natural Computing Award*
 
 ## Tutorial Speakers
