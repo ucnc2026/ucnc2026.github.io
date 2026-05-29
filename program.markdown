@@ -35,7 +35,7 @@ show_sidebar: true
 | 9:30-10:30  | Keynote Talk - Hiroki Sayama, _"Swarm systems as a platform for open-ended evolutionary dynamics"_ |
 | 10:30-11:00 | Coffee Break                                                                                       |
 | 11:00-12:00 | Regular papers session 2                                                                           |
-| 12:00-13:00 | Keynote Talk - Penousal Machado                                                                    |
+| 12:00-13:00 | Keynote Talk - Penousal Machado, _"Creative Evolutionary Computation in the Age of Generative AI"_ |
 | 13:00-14:00 | Lunch                                                                                              |
 | 14:00-22:00 | Social event and social dinner                                                                     |
 
