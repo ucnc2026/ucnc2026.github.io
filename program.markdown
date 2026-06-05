@@ -18,7 +18,7 @@ show_sidebar: true
 | 13:00-14:00 | Lunch                                                                                                |
 | 14:00-15:30 | Cellular Automata and Boolean Automata Networks Workshop                                             |
 | 15:30-16:00 | Coffee break                                                                                         |
-| 16:00-17:00 | Cellular Automata and Boolean Automata Networks Workshop                                             |
+| 16:00-17:30 | Cellular Automata and Boolean Automata Networks Workshop                                             |
 
 |             | Tuesday June 23, 2026     |
 | ----------- | ------------------------- |
