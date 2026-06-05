@@ -13,7 +13,7 @@ show_sidebar: true
 | 9:15-9:30   | Opening                                                                                              |
 | 9:30-10:30  | Keynote Talk - Carina Curto, _"Network dominoes: composable building blocks for recurrent networks"_ |
 | 10:30-11:00 | Coffee Break                                                                                         |
-| 11:00-12:00 | [Regular papers session 1](#regular-papers-session-1)                                               |
+| 11:00-12:00 | [Regular papers session 1](#regular-papers-session-1)                                                |
 | 12:00-13:00 | Tutorial - Eric Goles Chacc, _"Fungal Automata: dynamics and complexity"_                            |
 | 13:00-14:00 | Lunch                                                                                                |
 | 14:00-15:30 | Cellular Automata and Boolean Automata Networks Workshop                                             |
@@ -34,22 +34,22 @@ show_sidebar: true
 | ----------- | -------------------------------------------------------------------------------------------------- |
 | 9:30-10:30  | Keynote Talk - Hiroki Sayama, _"Swarm systems as a platform for open-ended evolutionary dynamics"_ |
 | 10:30-11:00 | Coffee Break                                                                                       |
-| 11:00-12:00 | [Regular papers session 2](#regular-papers-session-2)                                             |
+| 11:00-12:00 | [Regular papers session 2](#regular-papers-session-2)                                              |
 | 12:00-13:00 | Keynote Talk - Penousal Machado, _"Creative Evolutionary Computation in the Age of Generative AI"_ |
 | 13:00-14:00 | Lunch                                                                                              |
 | 14:00-22:00 | Social event and social dinner                                                                     |
 
-|             | Thursday June 25, 2026                                                        |
-| ----------- | ----------------------------------------------------------------------------- |
-| 9:30-10:30  | Keynote Talk - the winner of the G. Rozenberg Natural Computing Award         |
-| 10:30-11:00 | Coffee Break                                                                  |
-| 11:00-12:00 | [Regular papers session 3](#regular-papers-session-3)                        |
-| 12:00-13:00 | Tutorial - Constantine Evans, _"DNA tile assembly for all seasons"_           |
-| 13:00-14:00 | Lunch (including poster session)                                              |
-| 14:00-15:00 | Keynote talk - Cristian Micheletti, _"Quantum computing for polymer physics"_ |
+|             | Thursday June 25, 2026                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------- |
+| 9:30-10:30  | Keynote Talk - the winner of the G. Rozenberg Natural Computing Award                       |
+| 10:30-11:00 | Coffee Break                                                                                |
+| 11:00-12:00 | [Regular papers session 3](#regular-papers-session-3)                                       |
+| 12:00-13:00 | Tutorial - Constantine Evans, _"DNA tile assembly for all seasons"_                         |
+| 13:00-14:00 | Lunch (including poster session)                                                            |
+| 14:00-15:00 | Keynote talk - Cristian Micheletti, _"Quantum computing for polymer physics"_               |
 | 15:00-15:30 | [Late breaking abstracts and posters session](#late-breaking-abstracts-and-posters-session) |
-| 15:30-16:00 | Coffee break (including poster session)                                       |
-| 16:00-17:00 | [Regular papers session 4](#regular-papers-session-4)                        |
+| 15:30-16:00 | Coffee break (including poster session)                                                     |
+| 16:00-17:00 | [Regular papers session 4](#regular-papers-session-4)                                       |
 
 |             | Friday June 26, 2026                                      |
 | ----------- | --------------------------------------------------------- |
@@ -57,7 +57,7 @@ show_sidebar: true
 | 10:30-11:00 | Coffee Break                                              |
 | 11:00-13:00 | Quantum Computing Workshop                                |
 | 13:00-14:00 | Lunch                                                     |
-| 14:00-14:30 | [Short papers session](#short-papers-session)            |
+| 14:00-14:30 | [Short papers session](#short-papers-session)             |
 | 14:30-15:30 | Tutorial - Eric Medvet, _"Evolutionary Modular Robotics"_ |
 | 15:30-15:45 | Closing                                                   |
 
