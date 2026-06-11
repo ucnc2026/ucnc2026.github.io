@@ -98,7 +98,18 @@ show_sidebar: true
   
 ### Late breaking abstracts and posters session - Thursday June 25, 15:00-15:30 {#late-breaking-abstracts-and-posters-session}
 
-TBA
+- Giacomo di Tollo, Gianni Filograsso and Gabriele Sbaiz  
+  _"Adaptive Particle Swarm for Long-Short Portfolio Selection"_
+- Davide De Dominicis, Andrea Gasparin, Alex Dagri, Gianmichele Palumbo and Lorenzo Castelli  
+ _"Efficient Bi-Objective Evolutionary Algorithms for Resilient Scheduling"_
+- Maya Jackson  
+  _"Reduction-Mediated Biological Computation: An Experimental Study Using Slime Mold and Euclidean Steiner Trees"_
+- Arthur Penty and Gunnart Tufte  
+  _"Evolving Competitive Nanomagnetic Creatures"_
+- Vesna Mitrovic	 
+  _"High-Fidelity Universal Quantum Gates and Logical States in ADP at Physiological Conditions"_
+- Niousha Sadjadi, Pablo Millan Arias, Camila Pedroso Estevam de Souza, Gurjit Randhawa, Kathleen Hill and Lila Kari  
+  _"KmeX: A computational tool linking DNA sequences and k-mer frequency profiles"_
 
 ### Regular papers session 4 - Thursday June 25, 2026 - 16:00-17:00 {#regular-papers-session-4}
 
