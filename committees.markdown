@@ -60,4 +60,5 @@ Already confirmed members:
 
 - Luca Manzoni, University of Trieste, Italy _(chair)_
 - Rocco Ascone, University of Trieste, Italy
+- Iuliana Malina Grigore, University of Trieste, Italy
 - Gabriele Sbaiz, University of Trieste, Italy
