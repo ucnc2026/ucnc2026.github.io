@@ -8,6 +8,8 @@ show_sidebar: true
 
 ## Preliminary Program
 
+Last updated: June 16, 2026
+
 |             | Monday June 22, 2026                                                                                 |
 | ----------- | ---------------------------------------------------------------------------------------------------- |
 | 9:15-9:30   | Opening                                                                                              |
@@ -49,7 +51,8 @@ show_sidebar: true
 | 14:00-15:00 | Keynote talk - Cristian Micheletti, _"Quantum computing for polymer physics"_               |
 | 15:00-15:30 | [Late breaking abstracts and posters session](#late-breaking-abstracts-and-posters-session) |
 | 15:30-16:00 | Coffee break (including poster session)                                                     |
-| 16:00-17:00 | [Regular papers session 4](#regular-papers-session-4)                                       |
+| 16:00-16:30 | [Regular papers session 4](#regular-papers-session-4)                                       |
+| 16:30-17:00 | [Short papers session](#short-papers-session)                                               |
 
 |             | Friday June 26, 2026                                      |
 | ----------- | --------------------------------------------------------- |
@@ -57,7 +60,7 @@ show_sidebar: true
 | 10:30-11:00 | Coffee Break                                              |
 | 11:00-13:00 | Quantum Computing Workshop                                |
 | 13:00-14:00 | Lunch                                                     |
-| 14:00-14:30 | [Short papers session](#short-papers-session)             |
+| 14:00-14:30 | [Regular papers session 5](#regular-papers-session-5)     |
 | 14:30-15:30 | Tutorial - Eric Medvet, _"Evolutionary Modular Robotics"_ |
 | 15:30-15:45 | Closing                                                   |
 
@@ -111,20 +114,23 @@ show_sidebar: true
 - Niousha Sadjadi, Pablo Millan Arias, Camila Pedroso Estevam de Souza, Gurjit Randhawa, Kathleen Hill and Lila Kari  
   _"KmeX: A computational tool linking DNA sequences and k-mer frequency profiles"_
 
-### Regular papers session 4 - Thursday June 25, 2026 - 16:00-17:00 {#regular-papers-session-4}
+### Regular papers session 4 - Thursday June 25, 2026 - 16:00-16:30 {#regular-papers-session-4}
 
 - Sampreet Kalita, Benjamin W. Butler, Susan Stepney and Viv Kendon  
   _"Novel models of computation from novel physical substrates: a bosonic example"_
 - Sofie De Weer, Jiacong Sun, Toon Bettens, Wim Dehaene, Giuseppe Sarda and Marian Verhelst  
   _"Beyond Max Cut: A Systematic Cross-Problem Evaluation of Ising Solvers on Constrained Combinatorial Optimization"_
-- Kamil Khadiev and Ilnur Valeev  
-  _"Circuits of Quantum Hashing and Quantum Fourier Transform for a Cactus as a Qubit Connectivity Graph"_
-- Kamil Khadiev, Aliya Khadieva, Vladislav Remidovskiy and Timur Bikmullin  
-  _"Quantum Algorithm for Searching for the Longest Segment and the Largest Empty Rectangle"_
 
-### Short papers session - Friday June 26, 2026 - 14:00-14:30 {#short-papers-session}
+### Short papers session - Thursday June 25, 2026 - 16:30-17:00 {#short-papers-session}
 
 - Natasha Jonoska, Yoel Ohayon, Van Pham, Bhavneet Saini, Masahico Saito, Ruojie Sha, Simon Vecchioni, and Karol Woloszyn 
   _"Levels of Chirality in DNA Nanostructures"_
 - Sanyam Agarwal, Anurag Pandey and Alexander Rogovskyy  
   _"Immune Cell Pathogen Detection as Memory-Dependent Graph Search Algorithm"_
+
+### Regular papers session 5 - Friday June 26, 2026 - 14:00-14:30 {#regular-papers-session-5}
+
+- Kamil Khadiev and Ilnur Valeev  
+  _"Circuits of Quantum Hashing and Quantum Fourier Transform for a Cactus as a Qubit Connectivity Graph"_
+- Kamil Khadiev, Aliya Khadieva, Vladislav Remidovskiy and Timur Bikmullin  
+  _"Quantum Algorithm for Searching for the Longest Segment and the Largest Empty Rectangle"_
