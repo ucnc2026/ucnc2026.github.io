@@ -54,3 +54,25 @@ Here is a (not exhaustive) list of hotels near the city center:
 It can be reached by bus from the city centre (lines 17 and 17/, direction "San Cilino"; line 51, direction "Area di Ricerca"; and line 4, direction "Villa Carsia") getting off at [the bus stop in Via Valerio 2](https://goo.gl/maps/UKQPkFwhWzHva1536).
 
 The [bus tickets](https://tplfvg.it/it/) can be bought at automatic vending machines near the train station and at some bus stops. It is also possible to buy tickets with the app of the transport company managing the buses. For the conference, the least expensive options are either two single tickets every day (1.35€ each) or one daily ticket every day (3€).
+
+#### Reaching the conference rooms
+
+The conference sessions and all the coffee breaks and lunches will be in the [**first floor of Building D**](https://maps.app.goo.gl/8RJ66VPA1WZowyfc7) of the [main campus of the University of Trieste](https://portale.units.it/en/university/campuses/trieste/main-campus).
+
+It can be reached from [the bus stop in Via Valerio 2](https://goo.gl/maps/UKQPkFwhWzHva1536) in 1-2 minutes:
+
+![](assets/images/location/step01.jpeg)
+From the bus stop cross the road and follow the footpath to the right.
+
+![](assets/images/location/step02.jpeg)
+Continue following the footpath until you reach a road to the left going into the main campus.
+
+![](assets/images/location/step03.jpeg)
+Go the the left and reach the building highlighted in the image.
+
+![](assets/images/location/step04.jpeg)
+From the entrance to the building go to the first floor (up one floor) to reach the conference room.
+
+#### Reaching the social dinner restaurant
+
+The social dinner will be in [Casa Pepe](https://maps.app.goo.gl/CP8QyZcE7qzwPdbq5) in Via del Coroneo 19. It can easily be reached on foot for the city center of with the same bus lines that go from the city center to the main campus of the universit at the bus stop in [Via del Coroneo 27 (tribunale)](https://maps.app.goo.gl/p8cqRJrJLxRJptLc6).
