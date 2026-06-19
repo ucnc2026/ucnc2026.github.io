@@ -49,8 +49,10 @@ Registration will be open every day from 9:00 outside the conference room in the
 | 11:00-12:00 | [Regular papers session 2](#regular-papers-session-2)                                              |
 | 12:00-13:00 | Keynote Talk - Penousal Machado, _"Creative Evolutionary Computation in the Age of Generative AI"_ |
 | 13:00-14:00 | Lunch                                                                                              |
-| 14:00-16:00 | Social event                                                                                       |
+| 15:00-17:00 | Social event - Guided tour of the city                                                             |
 | 19:30-22:00 | Social dinner at the the [Casa Pepe Restaurant](https://www.pepepizza.it)                          |
+
+The guided tour will start at 15:00 in [Piazza Attilio Hortis](https://maps.app.goo.gl/nJQcNcjsw5D8J1zf8)
 
 The social dinner will be in [Casa Pepe Restaurant in Via del Coroneo 19](https://maps.app.goo.gl/CP8QyZcE7qzwPdbq5).
 

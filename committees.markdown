@@ -62,3 +62,10 @@ Already confirmed members:
 - Rocco Ascone, University of Trieste, Italy
 - Iuliana Malina Grigore, University of Trieste, Italy
 - Gabriele Sbaiz, University of Trieste, Italy
+
+## Conference Helpers
+
+- Mauro Farina, University of Trieste, Italy
+- Iuliana Malina Grigore, University of Trieste, Italy
+- Anna Guccione, University of Trieste, Italy
+- Berfin Sakallioglu, University of Trieste, Italy
