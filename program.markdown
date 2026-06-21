@@ -28,9 +28,9 @@ Registration will be open every day from 9:00 outside the conference room in the
 | 11:00-12:00 | [Regular papers session 1](#regular-papers-session-1)                                                |
 | 12:00-13:00 | Tutorial - Eric Goles Chacc, _"Fungal Automata: dynamics and complexity"_                            |
 | 13:00-14:00 | Lunch                                                                                                |
-| 14:00-15:30 | [Cellular Automata and Boolean Automata Networks Workshop](#cabans-workshop)                        |
+| 14:00-15:30 | [Cellular Automata and Boolean Automata Networks Workshop](#cabans-workshop)                         |
 | 15:30-16:00 | Coffee Break                                                                                         |
-| 16:00-18:20 | [Cellular Automata and Boolean Automata Networks Workshop](#cabans-workshop)                        |
+| 16:00-18:20 | [Cellular Automata and Boolean Automata Networks Workshop](#cabans-workshop)                         |
 
 |             | Tuesday June 23, 2026     |
 | ----------- | ------------------------- |
@@ -52,7 +52,8 @@ Registration will be open every day from 9:00 outside the conference room in the
 | 15:00-17:00 | Social event - Guided tour of the city                                                             |
 | 19:30-22:00 | Social dinner at the the [Casa Pepe Restaurant](https://www.pepepizza.it)                          |
 
-The guided tour will start at 15:00 in [Piazza Attilio Hortis](https://maps.app.goo.gl/nJQcNcjsw5D8J1zf8)
+The guided tour will start at ~~15:00~~ 17:00 in [Piazza Attilio Hortis](https://maps.app.goo.gl/nJQcNcjsw5D8J1zf8).
+_The guided tour has been moved from 15:00 to 17:00 due to high temperatures expected for the day_.
 
 The social dinner will be in [Casa Pepe Restaurant in Via del Coroneo 19](https://maps.app.goo.gl/CP8QyZcE7qzwPdbq5).
 
