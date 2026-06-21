@@ -53,7 +53,7 @@ Registration will be open every day from 9:00 outside the conference room in the
 | 19:30-22:00 | Social dinner at the the [Casa Pepe Restaurant](https://www.pepepizza.it)                          |
 
 The guided tour will start at ~~15:00~~ 17:00 in [Piazza Attilio Hortis](https://maps.app.goo.gl/nJQcNcjsw5D8J1zf8).
-_The guided tour has been moved from 15:00 to 17:00 due to high temperatures expected for the day_.
+_The guided tour has been moved from 15:00 to 17:00 due to the high temperatures expected for the day_.
 
 The social dinner will be in [Casa Pepe Restaurant in Via del Coroneo 19](https://maps.app.goo.gl/CP8QyZcE7qzwPdbq5).
 
