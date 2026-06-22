@@ -167,7 +167,7 @@ The social dinner will be in [Casa Pepe Restaurant in Via del Coroneo 19](https:
 ##### Cellular Automata and Boolean Automata Networks Workshop: First Session
 
 * Rocco Ascone, Pedro Montealegre and Martín Ríos-Wilson<br/> _On the counting complexity of asynchronous threshold networks_
-* Tommaso Paladini and Luca Mariot<br/> _Self-Repairing Neural Networks based on Neural Cellular Automata_
+* Tommaso Paladini, Eva Tuba and Luca Mariot<br/> _Self-Repairing Neural Networks based on Neural Cellular Automata_
 
 ##### Cellular Automata and Boolean Automata Networks Workshop: Second Session
 
