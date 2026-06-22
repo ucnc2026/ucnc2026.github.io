@@ -14,7 +14,7 @@ Already Confirmed:
 - [Cristian Micheletti](https://people.sissa.it/~michelet/), SISSA, Italy<br/>_"Quantum computing for polymer physics"_
 - [Hiroki Sayama](https://www.binghamton.edu/som/research/profile.html?id=sayama), Binghamton University, USA<br/>_"Swarm systems as a platform for open-ended evolutionary dynamics"_
 - [Penousal Machado](https://www.cisuc.uc.pt/en/people/penousal-machado), University of Coimbra, Portugal<br/>_"Creative Evolutionary Computation in the Age of Generative AI"_
-- *The winner of the G. Rozenberg Natural Computing Award*<br/> [Carme Torras](https://www.iri.upc.edu/staff/torras), Institut de Robòtica i Informàtica Industrial, CSIS-UPC, Barcelona, Spain<br/>_"Assistive robotics: Research challenges, co-design, and technoethics education"_ 
+- *The recipient of the G. Rozenberg Natural Computing Award*<br/> [Carme Torras](https://www.iri.upc.edu/staff/torras), Institut de Robòtica i Informàtica Industrial, CSIS-UPC, Barcelona, Spain<br/>_"Assistive robotics: Research challenges, co-design, and technoethics education"_ 
 
 ## Tutorial Speakers
 
