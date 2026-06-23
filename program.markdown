@@ -204,7 +204,7 @@ The social dinner will be in [Casa Pepe Restaurant in Via del Coroneo 19](https:
 ##### Reaction Systems Workshop: Second Session
 
 * Paolo Bottoni, Anna Labella, Ion Petre<br/> _Counting arguments in the analysis of multiset reaction systems with persistence_
-* Daniela Genova<br/> _TBA_
+* Daniela Genova<br/> _Connecting Cellular Automata and Reaction Systems_
 
 
 ### Quantum Computing Workshop {#quantum-computing-workshop}
