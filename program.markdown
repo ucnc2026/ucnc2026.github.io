@@ -61,7 +61,7 @@ The social dinner will be in [Casa Pepe Restaurant in Via del Coroneo 19](https:
 
 |             | Thursday June 25, 2026                                                                      |
 | ----------- | ------------------------------------------------------------------------------------------- |
-| 9:30-10:30  | Keynote Talk - the winner of the G. Rozenberg Natural Computing Award                       |
+| 9:30-10:30  | Keynote Talk - *The recipient of the G. Rozenberg Natural Computing Award*<br/> Carme Torras, _"Assistive robotics: Research challenges, co-design, and technoethics education"_                       |
 | 10:30-11:00 | Coffee Break                                                                                |
 | 11:00-12:00 | [Regular papers session 3](#regular-papers-session-3)                                       |
 | 12:00-13:00 | Tutorial - Constantine Evans, _"DNA tile assembly for all seasons"_                         |
