@@ -48,7 +48,8 @@ Registration will be open every day from 9:00 outside the conference room in the
 | 10:30-11:00 | Coffee Break                                                                                       |
 | 11:00-12:00 | [Regular papers session 2](#regular-papers-session-2)                                              |
 | 12:00-13:00 | Keynote Talk - Penousal Machado, _"Creative Evolutionary Computation in the Age of Generative AI"_ |
-| 13:00-14:00 | Lunch                                                                                              |
+| 13:00-13:05 | Presentation of UCNC 2027                                                                          |
+| 13:05-14:00 | Lunch                                                                                              |
 | 17:00-19:00 | Social event - Guided tour of the city                                                             |
 | 19:30-22:00 | Social dinner at the the [Casa Pepe Restaurant](https://www.pepepizza.it)                          |
 
